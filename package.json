@@ -1,0 +1,26 @@
+{
+  "name": "data-structures-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mringel/data-structures-algorithms.git"
+  },
+  "author": "matthew ringel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mringel/data-structures-algorithms/issues"
+  },
+  "homepage": "https://github.com/mringel/data-structures-algorithms#readme",
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "mocha": "^2.3.3"
+  }
+}
