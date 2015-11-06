@@ -1,7 +1,7 @@
 # data-structures-algorithms
-** Matthew Ringel  
-sea-d45-javascript  
-6 November 2015 **
+**Matthew Ringel**  
+**sea-d45-javascript**  
+**6 November 2015**
 
 ## Included Modules
 
